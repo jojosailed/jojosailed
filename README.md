@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 
+
+
+### A professional real-time cryptocurrency trading terminal for Hyperliquid DEX with advanced technical analysis, multi-timeframe charting, and automated signal detection.
+
+
+
+
 
 <!--
 **jojosailed/jojosailed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
